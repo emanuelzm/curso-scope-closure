@@ -1,0 +1,13 @@
+¿Que es el Closure? // Un cierre
+
+    "
+    Permiten acceder al ámbito de una función exterior desde una función interior. 
+    En JavaScript, las clausuras se crean cada vez que una función es creada.
+
+    ▶ A diferencia de otros conceptos como funciones, variables u otros. Los Closures no son siempre utilizados.
+
+        ● Aprender el concepto es saber identificar cuando lo estas utilizando.
+        ● Probablemente, es que ya lo has usado cientos de veces.
+    
+    ▶ Tienes una closure cuando una función cualquiera accede a una variable fuera de su contexto.
+    "
