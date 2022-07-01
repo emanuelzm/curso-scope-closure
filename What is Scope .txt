@@ -1,0 +1,20 @@
+¿Que es el Scope?
+ Cuando definamos variables, funciones y elementos internos dentro de estas mismas
+
+ === El alcance que determina la accesibilidad de las variables,
+  donde y como podemos interactuar con las variables
+
+Tipos de Scope
+ - Global
+ - Function
+ - Block
+
+Variables, Objetos, funciones pueden definirse como = ${variables}
+    por eso se ven implicadas en el Scope.
+
+Por lo que el Scope determina como acceder a las ${variables} desde diferentes partes del codigo.
+
+Proyecto 
+    ● Global, Function, Block.
+    ● Var, Let, Const.
+    ● Aaccesibilidad.
