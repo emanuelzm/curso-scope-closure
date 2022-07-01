@@ -7,7 +7,6 @@ pi = 3.1416; // Declarar y Asignar
 console.log(pi);
 
 function myFunction() {
-    'use strict';
     return pi = 3.1416;
 }
 
