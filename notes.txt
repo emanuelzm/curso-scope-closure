@@ -1,0 +1,12 @@
+Curso de Closures y Scope en JavaScript:
+
+- Diferencias del Scode
+
+- Alcance de las variables y funciones
+
+- Que implica trabajar con el joisting
+
+- Conceptos importantes
+
+*** Son preguntados en entrevistas de trabajo
+ -- Entender conceptos y practicarlos
